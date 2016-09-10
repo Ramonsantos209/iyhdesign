@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rsantos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.iyhdesign.com
+  * I am rsantos (https://keybase.io/rsantos) on keybase.
+  * I have a public key with fingerprint 6DA5 F1BB B15B 9450 B7AB  657B 9F87 E059 508A 10BD
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010103c065f41400ea0d0b7c6109dc1d9df0fff2b884ff87b05330567c78ee4035270a",
+            "fingerprint": "6da5f1bbb15b9450b7ab657b9f87e059508a10bd",
+            "host": "keybase.io",
+            "key_id": "9f87e059508a10bd",
+            "kid": "010103c065f41400ea0d0b7c6109dc1d9df0fff2b884ff87b05330567c78ee4035270a",
+            "uid": "6d8552e19bcc70b2dd31e0a76f7d0c19",
+            "username": "rsantos"
+        },
+        "service": {
+            "hostname": "www.iyhdesign.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473526219,
+    "expire_in": 157680000,
+    "prev": "99bab2af6151dce6cd928dd9f6ac95a3984b43a6b17b4a2bc5c7bbfe9269519f",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBVBGD5mpZ4uSHRRgrKlnjKb2bOzu3MKiiKim5SWFSmnua0ues4e
+96zndBIj7IoVISWEFdENgkLtfoOokCiMHsLAhC4YFBkRXSVSaFbqrcdmHob55/u+
++f6Pv3NcZiCYMX5Nx4GWnNm5GV33WusC67txV71CHZ5WwvVKtRg+RA0XCS9SbXMl
+rAAod4gBHVka1AAQBHBADaZDgDmDHHMLWJalUtPULMs0KEChEEC6wQxTCA2EkGoA
+ohQqlh2rFG7ctWOelNU5QRaklEJEsYakIqE6MiiWEgIgjIBJIKBcEquchM+Q5ihJ
+iCLbkTV5iQzb+wf+P/uuG5bTuYmQKiCmjBmAqpyHoADE0C2DAwaxD0wIN0aiQqLd
+BIl5TkJpKFRkMWkz4efqN/IHkEqliux0lczZrowVMScq+XHX8Rzm1MjnKs+Lh322
+l44PwwWN/BGKUDvGZZSSkBRuwnZiShhKJPNsXxlqhnSuqxAXKmJL3HZFxPYRyNBN
+IJf/jUj6wWFKqEosHSLImdAZx6rJObZ0wjAiIWxqVAsRnUKDakSlDDGDUktgVccI
+YkvxW6uNOUpYlTZJpZT0eyFenSuUhvt3y0cGMoKB0aNG+CMWCObk/h28M1uyA+e7
+y9oaP/UuMoKv+neMKOH7YDmLLto4bUY4M78b1NVkbVyw9NtgC98mapvij9uPs3eZ
+zya+ydk2ed72lQPBDdtPzvjVWT13qO31Yjq04kNm6sHKY8vu9Z24c7i2cev67vZD
+hWOTW4tXlxbc6d3Zl92099bz4pn7ez59Xj7w/uPgpfzSYtKSd+rrh1M3S8kLNv/g
+nrZ0w8xL574drXky/2Hr94qHY852XX6JJ01jC5dM/3mlMyudzeY0XzhysHXtwoJ4
+Hmq+VvLo7feyL/qu8vym1Odnc4ZWtTcnT//Y3N64ae+yi/UFPW604vaOwO48ZeqB
+jjW7r6ZnTTm7rj/nxruOCXuejlwRvf4bfG9AYg==
+=P4kx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rsantos
+
+==================================================================
