@@ -1649,7 +1649,7 @@
 /* Banner */
 
 	#banner {
-		background: #ffffff url("../../images/ruckus.jpg");
+		background: url("../../images/ruckus.jpg");
 		background-position: center center;
 		background-size: 100%;
 		background-repeat: no-repeat;
